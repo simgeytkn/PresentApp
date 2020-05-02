@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PresentApp1.4</string>
+    <string name="html">This is <b>bold</b> and this is <i>italic</i>.</string>
+</resources>
